@@ -1,4 +1,4 @@
-<img src="/documentation/assets/img/logo.png" align="left"
+<img src="/documentation/assets/img/logo.png" align="center"
      alt="Logo">
 
 
