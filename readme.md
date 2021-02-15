@@ -1,7 +1,8 @@
 <img src="/documentation/assets/img/logo.png" align="left"
      alt="Logo">
 
-<br />
+
+
 # Boomstore - eCommerce System PHP
 
 Boomstore is a complete e-commerce system which provides both front-end and backend supports with a high level of security
